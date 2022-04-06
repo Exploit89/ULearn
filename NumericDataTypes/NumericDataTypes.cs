@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System;
+
+class NumericDataTypes
 {
 	static void Main()
 	{

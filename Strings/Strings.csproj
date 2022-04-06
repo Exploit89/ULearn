@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F0161E87-645D-4084-895D-F39AC852C289}</ProjectGuid>
+    <ProjectGuid>{9CC1BE56-92C7-4EE6-8113-A41BA6DABD36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NumericDataTypes</RootNamespace>
-    <AssemblyName>NumericDataTypes</AssemblyName>
+    <RootNamespace>Strings</RootNamespace>
+    <AssemblyName>Strings</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="NumericDataTypes.cs" />
+    <Compile Include="Strings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
