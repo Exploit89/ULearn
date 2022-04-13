@@ -1,8 +1,8 @@
 ﻿using System; //закомментируйте эту строчку, чтобы получить ошибку
 
-namespace Mistakes
+namespace CompileMistakes
 {
-	class Program
+	class CompileMistakes
 	{
 		private static int _number1 = _number2;
 		private static int _number2 = 5;

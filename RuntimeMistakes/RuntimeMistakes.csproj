@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{106DD9F1-3CDF-4E1D-B5B4-7463A2DB2027}</ProjectGuid>
+    <ProjectGuid>{729C4D39-1185-49C7-8A05-415481A6CB72}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Mistakes</RootNamespace>
-    <AssemblyName>Mistakes</AssemblyName>
+    <RootNamespace>RuntimeMistakes</RootNamespace>
+    <AssemblyName>RuntimeMistakes</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Mistakes.cs" />
+    <Compile Include="RuntimeMistakes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
